@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "一般",
+  "base_artist": "okazakitaiiku",
+  "createdAt": "2025-12-05T01:46:46.306804Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一般",
+      "artist": "岡崎体育",
+      "has_synced": false,
+      "path": "select/pl_01_一般_岡崎体育.txt"
+    }
+  ]
+}
